@@ -1,1 +1,50 @@
-
+[
+  {
+    "uid": "",
+    "intentName": "AMAZON.LaunchRequest",
+    "speechText": ""
+  },
+  {
+    "uid": "",
+    "intentName": "AMAZON.FallbackIntent",
+    "speechText": ""
+  },
+  {
+    "uid": "",
+    "intentName": "AMAZON.HelpIntent",
+    "speechText": ""
+  },
+  {
+    "uid": "",
+    "intentName": "AMAZON.StopIntent",
+    "speechText": ""
+  },
+  {
+    "uid": "",
+    "intentName": "",
+    "speechText": "",
+    "cardTitle": "",
+    "cardText": ""
+  },
+  {
+    "uid": "",
+    "intentName": "",
+    "speechText": "",
+    "cardTitle": "",
+    "cardText": ""
+  },
+  {
+    "uid": "",
+    "intentName": "",
+    "speechText": "",
+    "cardTitle": "",
+    "cardText": ""
+  },
+  {
+    "uid": "",
+    "intentName": "",
+    "speechText": "",
+    "cardTitle": "",
+    "cardText": ""
+  }
+]
