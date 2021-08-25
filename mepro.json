@@ -2,43 +2,57 @@
   {
     "uid": "",
     "intentName": "AMAZON.LaunchRequest",
-    "speechText": ""
+    "speechText": "Bienvenido a la skill de la UBU!"
   },
   {
     "uid": "",
     "intentName": "AMAZON.FallbackIntent",
-    "speechText": ""
+    "speechText": "Fallback frase"
   },
   {
     "uid": "",
     "intentName": "AMAZON.HelpIntent",
-    "speechText": ""
+    "speechText": "No te puedo ayudar ahora"
   },
   {
     "uid": "",
     "intentName": "AMAZON.StopIntent",
-    "speechText": ""
+    "speechText": "Hasta la vista, baby!"
   },
   {
     "uid": "",
-    "intentName": "",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "intentName": "InfoGeneralIntent001",
+    "speechText": "Metodología de la Programación es una asignatura obligatoria de seis créditos E C T S con tres créditos de teoría y tres créditos prácticos."
   },
   {
     "uid": "",
-    "intentName": "",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "intentName": "InfoGeneralIntent002",
+    "speechText": "Se encuadra en la materia de Programación."
   },
   {
     "uid": "",
-    "intentName": "",
-    "speechText": "",
-    "cardTitle": "",
-    "cardText": ""
+    "intentName": "InfoGeneralIntent003",
+    "speechText": "Es conveniente haber cursado la asignatura de 1er curso de Programación."
+  },
+  {
+    "uid": "",
+    "intentName": "InfoGeneralIntent004",
+    "speechText": "Estructuras de Datos. Programación Concurrente y Tiempo Real. Algoritmia. Aplicaciones de Bases de Datos. Optativas de la mención de Ingeniería del Software."
+  },
+  {
+    "uid": "",
+    "intentName": "InfoGeneralIntent005",
+    "speechText": "Conocer el concepto de modularidad, y el desarrollo orientado a objetos. Saber los conceptos básicos en programación referentes a visiones estáticas y dinámicas como clases y objetos respectivamente. Conocer conceptos avanzados como herencia y genericidad. Resolución de problemas concretos aplicando conceptos previos argumentando las soluciones tomadas. Saber construir software robusto. Conocer y asimilar nuevos avances en la programación."
+  },
+  {
+    "uid": "",
+    "intentName": "InfoGeneralIntent006",
+    "speechText": "Dos horas de teoría y dos horas de laboratorio a la semana."
+  },
+  {
+    "uid": "",
+    "intentName": "InfoGeneralIntent007",
+    "speechText": "La asignatura tiene doce semanas presenciales junto con cuatro semanas adicionales para pruebas de evaluación."
   },
   {
     "uid": "",
