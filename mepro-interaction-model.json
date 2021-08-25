@@ -1,0 +1,87 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "universidad de burgos",
+      "intents": [
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "InfoGeneralIntent001",
+          "slots": [],
+          "samples": [
+            "¿Qué características tiene la asignatura?"
+          ]
+        },
+        {
+          "name": "InfoGeneralIntent002",
+          "slots": [],
+          "samples": [
+            "¿A qué materia pertenece?"
+          ]
+        },
+        {
+          "name": "InfoGeneralIntent003",
+          "slots": [],
+          "samples": [
+            "¿Qué asignaturas es conveniente cursar previamente?",
+            "¿Qué prerrequisitos tiene?",
+            "¿Se recomienda haber cursado alguna asignatura previa?"
+          ]
+        },
+        {
+          "name": "InfoGeneralIntent004",
+          "slots": [],
+          "samples": [
+            "¿Para qué asignaturas me prepara esta asignatura?",
+            "¿Qué otras asignaturas dependen de MEPRO?"
+          ]
+        },
+        {
+          "name": "InfoGeneralIntent005",
+          "slots": [],
+          "samples": [
+            "¿Qué objetivos tiene la asignatura?",
+            "¿qué se aprende en la asignatura?",
+            "¿para qué sirve?"
+          ]
+        },
+        {
+          "name": "InfoGeneralIntent006",
+          "slots": [],
+          "samples": [
+            "¿Cómo se organiza en horas la asignatura?",
+            "¿Cuántas horas de clase hay?",
+            "¿Cómo se estructura el horario?"
+          ]
+        },
+        {
+          "name": "InfoGeneralIntent007",
+          "slots": [],
+          "samples": [
+            "¿Cuántas semanas de clase hay?",
+            "¿Cuántas semanas?"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
