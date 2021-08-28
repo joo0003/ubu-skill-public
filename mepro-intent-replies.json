@@ -21,37 +21,37 @@
   },
   {
     "uid": "",
-    "intentName": "InfoGeneralIntent001",
+    "intentName": "InfoGeneralIntent_AAA",
     "speechText": "Metodología de la Programación es una asignatura obligatoria de seis créditos E C T S con tres créditos de teoría y tres créditos prácticos."
   },
   {
     "uid": "",
-    "intentName": "InfoGeneralIntent002",
+    "intentName": "InfoGeneralIntent_AAB",
     "speechText": "Se encuadra en la materia de Programación."
   },
   {
     "uid": "",
-    "intentName": "InfoGeneralIntent003",
+    "intentName": "InfoGeneralIntent_AAC",
     "speechText": "Es conveniente haber cursado la asignatura de 1er curso de Programación."
   },
   {
     "uid": "",
-    "intentName": "InfoGeneralIntent004",
+    "intentName": "InfoGeneralIntent_AAD",
     "speechText": "Estructuras de Datos. Programación Concurrente y Tiempo Real. Algoritmia. Aplicaciones de Bases de Datos. Optativas de la mención de Ingeniería del Software."
   },
   {
     "uid": "",
-    "intentName": "InfoGeneralIntent005",
+    "intentName": "InfoGeneralIntent_AAE",
     "speechText": "Conocer el concepto de modularidad, y el desarrollo orientado a objetos. Saber los conceptos básicos en programación referentes a visiones estáticas y dinámicas como clases y objetos respectivamente. Conocer conceptos avanzados como herencia y genericidad. Resolución de problemas concretos aplicando conceptos previos argumentando las soluciones tomadas. Saber construir software robusto. Conocer y asimilar nuevos avances en la programación."
   },
   {
     "uid": "",
-    "intentName": "InfoGeneralIntent006",
+    "intentName": "InfoGeneralIntent_AAF",
     "speechText": "Dos horas de teoría y dos horas de laboratorio a la semana."
   },
   {
     "uid": "",
-    "intentName": "InfoGeneralIntent007",
+    "intentName": "InfoGeneralIntent_AAG",
     "speechText": "La asignatura tiene doce semanas presenciales junto con cuatro semanas adicionales para pruebas de evaluación."
   },
   {

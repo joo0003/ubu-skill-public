@@ -24,60 +24,60 @@
           "samples": []
         },
         {
-          "name": "InfoGeneralIntent001",
+          "name": "InfoGeneralIntent_AAA",
           "slots": [],
           "samples": [
-            "¿Qué características tiene la asignatura?"
+            "Qué características tiene la asignatura"
           ]
         },
         {
-          "name": "InfoGeneralIntent002",
+          "name": "InfoGeneralIntent_AAB",
           "slots": [],
           "samples": [
-            "¿A qué materia pertenece?"
+            "A qué materia pertenece"
           ]
         },
         {
-          "name": "InfoGeneralIntent003",
+          "name": "InfoGeneralIntent_AAC",
           "slots": [],
           "samples": [
-            "¿Qué asignaturas es conveniente cursar previamente?",
-            "¿Qué prerrequisitos tiene?",
-            "¿Se recomienda haber cursado alguna asignatura previa?"
+            "Qué asignaturas es conveniente cursar previamente",
+            "Qué prerrequisitos tiene",
+            "Se recomienda haber cursado alguna asignatura previa"
           ]
         },
         {
-          "name": "InfoGeneralIntent004",
+          "name": "InfoGeneralIntent_AAD",
           "slots": [],
           "samples": [
-            "¿Para qué asignaturas me prepara esta asignatura?",
-            "¿Qué otras asignaturas dependen de MEPRO?"
+            "Para qué asignaturas me prepara esta asignatura",
+            "Qué otras asignaturas dependen de MEPRO"
           ]
         },
         {
-          "name": "InfoGeneralIntent005",
+          "name": "InfoGeneralIntent_AAF",
           "slots": [],
           "samples": [
-            "¿Qué objetivos tiene la asignatura?",
-            "¿qué se aprende en la asignatura?",
-            "¿para qué sirve?"
+            "Qué objetivos tiene la asignatura",
+            "qué se aprende en la asignatura",
+            "para qué sirve"
           ]
         },
         {
-          "name": "InfoGeneralIntent006",
+          "name": "InfoGeneralIntent_AAG",
           "slots": [],
           "samples": [
-            "¿Cómo se organiza en horas la asignatura?",
-            "¿Cuántas horas de clase hay?",
-            "¿Cómo se estructura el horario?"
+            "Cómo se organiza en horas la asignatura",
+            "Cuántas horas de clase hay",
+            "Cómo se estructura el horario"
           ]
         },
         {
-          "name": "InfoGeneralIntent007",
+          "name": "InfoGeneralIntent_AAH",
           "slots": [],
           "samples": [
-            "¿Cuántas semanas de clase hay?",
-            "¿Cuántas semanas?"
+            "Cuántas semanas de clase hay",
+            "Cuántas semanas"
           ]
         }
       ],
