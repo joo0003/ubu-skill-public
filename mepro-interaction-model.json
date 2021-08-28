@@ -55,7 +55,7 @@
           ]
         },
         {
-          "name": "InfoGeneralIntent_AAF",
+          "name": "InfoGeneralIntent_AAE",
           "slots": [],
           "samples": [
             "Qué objetivos tiene la asignatura",
@@ -64,7 +64,7 @@
           ]
         },
         {
-          "name": "InfoGeneralIntent_AAG",
+          "name": "InfoGeneralIntent_AAF",
           "slots": [],
           "samples": [
             "Cómo se organiza en horas la asignatura",
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "name": "InfoGeneralIntent_AAH",
+          "name": "InfoGeneralIntent_AAG",
           "slots": [],
           "samples": [
             "Cuántas semanas de clase hay",
