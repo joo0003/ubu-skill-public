@@ -7,7 +7,7 @@
   {
     "uid": "",
     "intentName": "AMAZON.FallbackIntent",
-    "speechText": "<say-as interpret-as=\"interjection\">hmm</say-as>. No te he entendido bien. Por favor repite la pregunta o formulala de manera diferente."
+    "speechText": "<say-as interpret-as=\"interjection\">hmm</say-as>. Perdona. No he podido encontrar la respuesta a lo que me has preguntado."
   },
   {
     "uid": "",
