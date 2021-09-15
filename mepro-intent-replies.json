@@ -2,22 +2,23 @@
   {
     "uid": "",
     "intentName": "AMAZON.LaunchRequest",
-    "speechText": "Bienvenido a la skill de la UBU!"
+    "speechText": "Bienvenido a la skill de metodología de la programación!"
   },
   {
     "uid": "",
     "intentName": "AMAZON.FallbackIntent",
-    "speechText": "Fallback frase"
+    "speechText": "<say-as interpret-as=\"interjection\">hmm</say-as>. No te he entendido bien. Por favor repite la pregunta o formulala de manera diferente."
   },
   {
     "uid": "",
     "intentName": "AMAZON.HelpIntent",
-    "speechText": "No te puedo ayudar ahora"
+    "speechText": "Esta skill te permite obtener información acerca de la asignatura de metodología de la programación. Aquí tienes algunos ejemplos de lo que puedes preguntar.",
+    "cardText": "¿Qué características tiene la asignatura?\n¿A qué materia pertenece?\n¿Qué prerrequisitos tiene?"
   },
   {
     "uid": "",
     "intentName": "AMAZON.StopIntent",
-    "speechText": "Hasta la vista, baby!"
+    "speechText": "<say-as interpret-as=\"interjection\">okey</say-as>."
   },
   {
     "uid": "",
@@ -32,7 +33,7 @@
   {
     "uid": "",
     "intentName": "InfoGeneralIntent_AAC",
-    "speechText": "Es conveniente haber cursado la asignatura de 1er curso de Programación."
+    "speechText": "Es conveniente haber cursado la asignatura de primer curso de Programación."
   },
   {
     "uid": "",
