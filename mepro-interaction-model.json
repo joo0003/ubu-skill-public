@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "universidad de burgos",
+      "invocationName": "metodología de la programación",
       "intents": [
         {
           "name": "AMAZON.FallbackIntent",
